@@ -1,0 +1,28 @@
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.exe
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.deps.json
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.runtimeconfig.json
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.pdb
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.AssemblyInfoInputs.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.AssemblyInfo.cs
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\refint\AulaListaSimpleEncad.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.pdb
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.genruntimeconfig.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSimpleEncad\obj\Debug\net8.0\ref\AulaListaSimpleEncad.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.exe
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.deps.json
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.runtimeconfig.json
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\bin\Debug\net8.0\AulaListaSimpleEncad.pdb
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.AssemblyInfoInputs.cache
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.AssemblyInfo.cs
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.csproj.CoreCompileInputs.cache
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\refint\AulaListaSimpleEncad.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.pdb
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\AulaListaSimpleEncad.genruntimeconfig.cache
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\obj\Debug\net8.0\ref\AulaListaSimpleEncad.dll
