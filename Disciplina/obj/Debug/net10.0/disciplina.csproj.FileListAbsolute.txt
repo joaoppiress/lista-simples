@@ -1,0 +1,15 @@
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\bin\Debug\net10.0\disciplina.exe
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\bin\Debug\net10.0\disciplina.deps.json
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\bin\Debug\net10.0\disciplina.runtimeconfig.json
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\bin\Debug\net10.0\disciplina.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\bin\Debug\net10.0\disciplina.pdb
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.AssemblyInfoInputs.cache
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.AssemblyInfo.cs
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.csproj.CoreCompileInputs.cache
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.sourcelink.json
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\refint\disciplina.dll
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.pdb
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\disciplina.genruntimeconfig.cache
+C:\Users\edna_\Desktop\AulaListaSimpleEncad\disciplina\obj\Debug\net10.0\ref\disciplina.dll
